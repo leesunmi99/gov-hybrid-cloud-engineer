@@ -1,8 +1,11 @@
 # 프로젝트 소개 
-
+AWS 인프라 구성 실습 프로젝트입니다. 
+Cloud9을 활용하여 빠르게 환경을 구성하고, EC2, S3, ALB, RDS 등을 연동하여 전체 서비스를 구성하였습니다.
 
 # 사용 기술 스택 
-
+- Infra: ALB, EKS, Route53, RDS
+- Tool: Cloud9, Docker, ArgoCD, Github
+- Monitoring: CloudWatch
 
 
 
@@ -16,6 +19,7 @@
 
 
 # 내 역할 및 기여 
+
 
 # 트러블슈팅 경험 
 
