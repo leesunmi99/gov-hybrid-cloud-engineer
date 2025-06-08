@@ -27,3 +27,7 @@ Cloud9을 활용하여 빠르게 환경을 구성하고, EC2, S3, ALB, RDS 등�
 
 
 # 실행 결과 
+
+
+> 참고:
+> https://catalog.us-east-1.prod.workshops.aws/workshops/9c0aa9ab-90a9-44a6-abe1-8dff360ae428/ko-KR/50-eks-cluster/100-launch-cluster
