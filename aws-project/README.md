@@ -16,6 +16,8 @@ Cloud9을 활용하여 빠르게 환경을 구성하고, EC2, S3, ALB, RDS 등�
 
 # 프로젝트 구성도 
 ![aws-project_시방서](https://github.com/user-attachments/assets/9af59d70-5fff-45eb-bf86-b80e1339882f)
+![image](https://github.com/user-attachments/assets/1b8789e2-34ba-4c4e-b327-0eed72892bf4)
+
 
 
 # 내 역할 및 기여 
