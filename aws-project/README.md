@@ -21,8 +21,10 @@ Cloud9을 활용하여 빠르게 환경을 구성하고, EC2, S3, ALB, RDS 등�
 
 
 # 내 역할 및 기여 
-- Dockerfile 및 manifest 작성
-- PPT 및 발표
+- Dockerfile 작성
+- 웹 애플리케이션 개발: nginx 및 tomcat 환경에서 실행될 HTML/JSP 파일을 개발
+- 클라우드 환경 구축: AWS EKS 클러스터 및 ALB 설치
+- PPT 작성 및 발표
 
 
 # 트러블슈팅 경험 
