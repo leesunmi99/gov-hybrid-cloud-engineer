@@ -20,7 +20,7 @@
 
 # 내 역할 및 기여 
 - Dockerfile 작성
-- 클라우드 환경 구축: AWS EKS 클러스터 및 ALB 설치
+- 클라우드 환경 구축: Terraform으로 기본 인프라 구축
 - PPT 작성
 
 
