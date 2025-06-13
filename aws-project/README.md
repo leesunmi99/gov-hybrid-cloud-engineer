@@ -21,6 +21,8 @@ Cloud9을 활용하여 빠르게 환경을 구성하고, EC2, S3, ALB, RDS 등�
 
 
 # 내 역할 및 기여 
+- Dockerfile 및 manifest 작성
+- PPT 및 발표
 
 
 # 트러블슈팅 경험 
