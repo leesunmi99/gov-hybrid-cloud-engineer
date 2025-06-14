@@ -31,6 +31,10 @@ Cloud9을 활용하여 빠르게 환경을 구성하고, EC2, S3, ALB, RDS 등�
 
 
 # 실행 결과 
+![image](https://github.com/user-attachments/assets/3c335536-4e7e-4896-a7f9-2e360fc21ebc)
+![image](https://github.com/user-attachments/assets/9391583d-ccf0-420c-9e86-e0d8809f438a)
+
+- CloudWatch
 
 
 
