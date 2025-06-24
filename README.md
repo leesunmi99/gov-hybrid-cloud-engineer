@@ -1,7 +1,7 @@
 # 국비 지원 REDHAT 하이브리드 클라우드 엔지니어 과정 프로젝트
 
 에티버스러닝의 REDHAT 하이브리드 클라우드 엔지니어 국비 교육 과정에서 수행한 프로젝트입니다.  
-본 과정은 Network, AWS, Kubernetes 등을 중심으로 클라우드 환경을 구축하는 것을 했습니다. 
+본 과정은 Network, AWS, Kubernetes 등을 중심으로 클라우드 환경을 구축하였습니다. 
 
 ## 🛠️ 주요 기술 스택
 - OS: Linux (Ubuntu 기반)
