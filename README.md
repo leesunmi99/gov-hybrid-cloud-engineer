@@ -7,9 +7,9 @@
 - OS: Linux (Ubuntu 기반)
 - Cloud: AWS
 - Container: Docker, Kubernetes
-- Automation: Ansible
-- CI/CD: GitHub Actions
-- Monitoring: Prometheus, Grafana, Loki, 
+- Automation: Terraform
+- CI/CD: ArgoCD, Jenkins
+- Monitoring: Prometheus, Grafana, Loki
 
 ---
 
